@@ -32,11 +32,14 @@ Sprint | Previsão | Status| Histórico|
 ![GERENCIAR](https://github.com/LogixFatec/API-II/blob/main/Organograma.png)
 
 # Objetivo do Projeto
-Mapear o potencial de movimentação de cargas no aeroporto de SJK com base em dados de importação e exportação de municípios no ano de 2022.
-* Desenvolvimento de estrutura relacional de tabela com base nos dados disponibilizados;
-* Criação de um dashboard intuitivo para visualização dos dados apresentados;
-* Documentar todo o processo na plataforma GitHub e gestão do projeto desenvolvido no Jira Software de forma clara;
-* Desenvolver habilidades técnicas.
+
+Analisar quais os principais modais utilizados para a exportação de produtos do estado de São Paulo no ano de 2023
+
+* Identificar os modais utilizados nos trâmites internacionais de movimentação de cargas
+* Desenhar a geografia do fluxo de exportação de cargas provenientes do estado de São Paulo
+* Desenvolver linha de tendência para as cargas identificadas
+* Criar modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas
+
 
 # Funcionalidades e registros das sprints
 
