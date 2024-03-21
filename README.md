@@ -20,10 +20,10 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00 | 25/09/2023 | concluído| [Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/12714675/RELATORIO.DE.API.docx) | 
-|01| 16/10/2023  | concluído |[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/12910312/RELATORIO.DE.API.2.docx) | 
-|02| 13/11/2023 | concluído|[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/13329085/RELATORIO.DE.API.3.docx) | 
-|03| 27/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  |
+|01| 18/04/2024 | a fazer | [Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/12714675/RELATORIO.DE.API.docx) | 
+|02| 16/10/2023  | a fazer |[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/12910312/RELATORIO.DE.API.2.docx) | 
+|03| 13/11/2023 | a fazer |[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/13329085/RELATORIO.DE.API.3.docx) | 
+|04| 27/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  |
 |Relatório do Projeto| 12/11/2023 | em progresso |[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/13329099/RELATORIO.LOGIX.docx)  |
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 
@@ -74,16 +74,16 @@ Interface do Dashboard
 
 # Backlog do produto
 
- ## SPRINT 0
+ ## SPRINT 1
 ![GERENCIAR](https://github.com/LogixFatec/LOGIX_API/assets/144241887/f4963303-b986-4c59-8a20-48981633d4bf)
 
- ## SPRINT 1
+ ## SPRINT 2
 ![backlogsprint1](https://github.com/LogixFatec/LOGIX_API/assets/144241887/998d1fb9-b40c-4d3b-aeea-9c4efde4ea6d)
 
- ## SPRINT 2
+ ## SPRINT 3
 ![backlogsprint2](https://github.com/LogixFatec/LOGIX_API/assets/144241887/caa8af9b-7d27-4a28-9de9-0d3fb9b12a5a)
 
- ## SPRINT 3
+ ## SPRINT 4
 ![SPRINT 3](https://github.com/LogixFatec/LOGIX_API/assets/144241887/16472e1d-e069-4b1c-a6f5-cc955fbaad8d)
 
 Regras de Negócio
@@ -109,42 +109,35 @@ User stories
 
 # Sprints
 
-## Sprint 0. Introdução
-- [x] Registro do chamado
-- [x] Gerenciamento do login dos membros nas plataformas
-- [x] Estruturação do GitHub
-- [x] Estruturação do Jira Software
-- [X] Atribuição das tarefas
-- [X] Criar organograma
-- [X] Estudar sobre análise SWOT e metodologia ágil
-- [X] Relatório
-- [X] Envio do e-mail de apresentação
+## Sprint 1. Introdução
+- [ ] Registro do chamado
+- [ ] Estruturação do GitHub
+- [ ] Estruturação do Jira Software
+- [ ] Atribuição das tarefas
+- [ ] Criar organograma
+- [ ] Relatório
+- [ ] Relacionar as Tabelas
+- [ ] Análise da causa raíz
 
-## Sprint 1. Concepção
-- [X] Tabelas relacionais
-- [X] Criação do dashboard
-- [X] Início do tratamento de dados
-- [X] Pesquisas sobre CIF&FOB
-- [X] Relatório
+## Sprint 2. Concepção
+- [ ] Criação do dashboard
+- [ ] Início do tratamento de dados
+- [ ] Pesquisas sobre CIF&FOB
+- [ ] Relatório
 
-## Sprint 2. Desenvolvimento do Projeto
-- [X] Registro de funcionamento do dashboard
-- [X] Pesquisa sobre as movimentações de cargas
-- [X] Relatório
-- [X] Estudar sobre MVP
-- [X] Selecionar 5 produtos
-- [X] Pesquisa sobre cadeia de abastecimento
-- [X] Pesquisa no site COMEX STAT
-- [X] Cadeias produtivas dos Estados
-- [X] Dashboard
+## Sprint 3. Desenvolvimento do Projeto
+- [ ] Registro de funcionamento do dashboard
+- [ ] Pesquisa sobre as movimentações de cargas
+- [ ] Relatório
+- [ ] Pesquisa no site COMEX STAT
+- [ ] Dashboard
    
-## Sprint 3 . Implementação
-- [X] Listagem das cidades
-- [X] Revisão do Dashboard
-- [X] Documentações
-- [X] Análise da causa raíz
-- [X] Criação de um storytelling
-- [X] Atualização do Github
+## Sprint 4. Implementação
+- [ ] Listagem das cargas
+- [ ] Revisão do Dashboard
+- [ ] Documentações
+- [ ] Criação de um storytelling
+- [ ] Atualização do Github
 
 
 
@@ -153,18 +146,18 @@ User stories
 ## Hard Skill (saber tecnológico)
 Computação;
 Ferramentas tecnológicas (PowerBI, Pacote Office);
-Gestão de Projetos (Jira Software; Análise SWOT, 5W2H);
+Gestão de Projetos (Jira Software; Análise SWOT);
 Análise de Dados;
 Atendimento ao cliente;
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub |  ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Gestão de Projetos |★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| PowerBI | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| PowerBI | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Análise de Dados | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Atendimento ao Cliente | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Análise de Dados | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Atendimento ao Cliente | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
 
@@ -179,12 +172,12 @@ Gerenciamento de tempo;
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Comunicação | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Trabalho em equipe | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
 </details>
 
