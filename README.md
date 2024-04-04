@@ -19,13 +19,13 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 04/09/2023 | concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 08/04/2024 | concluído|
 |01| 18/04/2024 | a fazer | [Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/12714675/RELATORIO.DE.API.docx) | 
-|02| 16/10/2023  | a fazer |[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/12910312/RELATORIO.DE.API.2.docx) | 
-|03| 13/11/2023 | a fazer |[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/13329085/RELATORIO.DE.API.3.docx) | 
-|04| 27/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  |
-|Relatório do Projeto| 12/11/2023 | em progresso |[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/13329099/RELATORIO.LOGIX.docx)  |
-|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
+|02| 09/05/2024  | a fazer |[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/12910312/RELATORIO.DE.API.2.docx) | 
+|03| 30/05/2024 | a fazer |[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/13329085/RELATORIO.DE.API.3.docx) | 
+|04| 20/06/2024 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  |
+|Relatório do Projeto| 27/06/2024 | a fazer |[Ver Relatório](https://github.com/LogixFatec/LOGIX_API/files/13329099/RELATORIO.LOGIX.docx)  |
+|Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 
 # Equipe
    
