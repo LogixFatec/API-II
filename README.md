@@ -70,16 +70,16 @@ Interface do Dashboard
 # Backlog do produto
 
  ## SPRINT 1
-![GERENCIAR](https://github.com/LogixFatec/LOGIX_API/assets/144241887/f4963303-b986-4c59-8a20-48981633d4bf)
+![GERENCIAR](
 
  ## SPRINT 2
-![backlogsprint1](https://github.com/LogixFatec/LOGIX_API/assets/144241887/998d1fb9-b40c-4d3b-aeea-9c4efde4ea6d)
+![backlogsprint1]()
 
  ## SPRINT 3
-![backlogsprint2](https://github.com/LogixFatec/LOGIX_API/assets/144241887/caa8af9b-7d27-4a28-9de9-0d3fb9b12a5a)
+![backlogsprint2]()
 
  ## SPRINT 4
-![SPRINT 3](https://github.com/LogixFatec/LOGIX_API/assets/144241887/16472e1d-e069-4b1c-a6f5-cc955fbaad8d)
+![SPRINT 3]()
 
 Regras de Negócio
 - 
