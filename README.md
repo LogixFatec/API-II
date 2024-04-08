@@ -67,11 +67,6 @@ Interface do Dashboard
 - [Apresentação da sprint 2](https://www.canva.com/design/DAFzqztx_Gc/NDw-zUIgIZ6O7--05WcMsw/edit?utm_content=DAFzqztx_Gc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Jira Software](https://logix0309.atlassian.net/jira/software/projects/API/boards/4/backlog?epics=visible)
   
-
-# Cronograma
-
-[(Cronograma)](https://github.com/users/LogixFatec/projects/3/views/1)
-
 # Backlog do produto
 
  ## SPRINT 1
@@ -114,15 +109,14 @@ User stories
 - [ ] Estruturação do GitHub
 - [ ] Estruturação do Jira Software
 - [ ] Atribuição das tarefas
-- [ ] Criar organograma
+- [ ] Início do tatamento de dados
 - [ ] Relatório
 - [ ] Relacionar as Tabelas
 - [ ] Análise da causa raíz
 
 ## Sprint 2. Concepção
 - [ ] Criação do dashboard
-- [ ] Início do tratamento de dados
-- [ ] Pesquisas sobre CIF&FOB
+- [ ] Pesquisas sobre modais
 - [ ] Relatório
 
 ## Sprint 3. Desenvolvimento do Projeto
@@ -188,6 +182,6 @@ Gerenciamento de tempo;
 | Scrum Master  | Caroline Alves |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-alves-04b776264/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carolinealvs) |
 | Desenvolvedor  | Altamira Talpai |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/altamira-talpai-66361b248/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/altamira51) |
 | Desenvolvedor | José Augusto |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-augusto-1814131a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joseauguuh) |
-|  Desenvolvedor  | João Pedro |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-freires-396121210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DarleneLima) |
+|  Desenvolvedor  | João Pedro |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-freires-396121210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]() |
 |  Desenvolvedor  | Tainara Oliveira |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tainara-oliveira-3176b6279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/tianaflor) |
 |  Desenvolvedor  | Kassandra Ruiz |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kassandra-ruiz-100591204?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DarleneLima) |
