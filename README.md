@@ -45,7 +45,7 @@ Analisar quais os principais modais utilizados para a exportação de produtos d
 
 Interface do Dashboard
 
-![EXPORT](![WhatsApp Image 2024-04-08 at 21 18 31 (1)](https://github.com/LogixFatec/API-II/assets/144241887/ca2a1134-b345-4349-9ea6-c4e701463b53)
+![EXPORT] (![WhatsApp Image 2024-04-08 at 21 18 31 (1)](https://github.com/LogixFatec/API-II/assets/144241887/ca2a1134-b345-4349-9ea6-c4e701463b53)
 # Vídeo Apresentação
 [Vídeo do Dashboard](https://youtu.be/SokmKuw8kY8)
 
