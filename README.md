@@ -45,9 +45,9 @@ Analisar quais os principais modais utilizados para a exportação de produtos d
 
 Interface do Dashboard
 
-![EXPORT] (![WhatsApp Image 2024-04-08 at 21 18 31 (1)](https://github.com/LogixFatec/API-II/assets/144241887/ca2a1134-b345-4349-9ea6-c4e701463b53)
+(![WhatsApp Image 2024-04-08 at 21 18 31 (1)](https://github.com/LogixFatec/API-II/assets/144241887/ca2a1134-b345-4349-9ea6-c4e701463b53)
 # Vídeo Apresentação
-[Vídeo do Dashboard](https://youtu.be/SokmKuw8kY8)
+[Vídeo do Dashboard]()
 
 
 ## Tecnologias Utilizadas
@@ -69,7 +69,7 @@ Interface do Dashboard
 # Backlog do produto
 
  ## SPRINT 1
-![GERENCIAR](
+![GERENCIAR]()
 
  ## SPRINT 2
 ![backlogsprint1]()
@@ -97,21 +97,21 @@ Requisitos não funcionais
 User stories
 
 # Burndown
-![sprint backlog](https://github.com/LogixFatec/LOGIX_API/assets/144241887/5f1a6a0a-b5b4-4a09-bdca-4af6ce37409e)
-![Burndown 2](https://github.com/LogixFatec/LOGIX_API/assets/144241887/5ec690a1-92f8-4d39-8e09-4a068da8aa87)
-![burndown sprint 3](https://github.com/LogixFatec/LOGIX_API/assets/144241887/e2a079f2-9eb4-469a-8612-827f6ac94209)
+![sprint backlog]()
+![Burndown 2]()
+![burndown sprint 3]()
 
 # Sprints
 
 ## Sprint 1. Introdução
-- [ ] Registro do chamado
+- [x] Registro do chamado
 - [ ] Estruturação do GitHub
-- [ ] Estruturação do Jira Software
-- [ ] Atribuição das tarefas
-- [ ] Início do tatamento de dados
+- [x] Estruturação do Jira Software
+- [x] Atribuição das tarefas
+- [x] Início do tatamento de dados
 - [ ] Relatório
-- [ ] Relacionar as Tabelas
-- [ ] Análise da causa raíz
+- [x] Relacionar as Tabelas
+- [x] Análise da causa raíz
 
 ## Sprint 2. Concepção
 - [ ] Criação do dashboard
