@@ -55,6 +55,8 @@ Interface do Dashboard
 
 
  ### Tecnológias Específicas/Apoio
+ ![Uploading Captura de tela 2024-04-15 103215.png…]
+
 > Excel;
 > PowerBI;
 > Canva;
