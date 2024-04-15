@@ -69,7 +69,7 @@ Interface do Dashboard
 # Backlog do produto
 
  ## SPRINT 1
-![GERENCIAR](![Captura de tela 2024-04-15 101204](https://github.com/LogixFatec/API-II/assets/144241887/99810851-6e73-44c9-a69f-47ca4682f189)
+![Baclogsprint1](![Captura de tela 2024-04-15 101204](https://github.com/LogixFatec/API-II/assets/144241887/99810851-6e73-44c9-a69f-47ca4682f189)
 
  ## SPRINT 2
 ![backlogsprint1]()
