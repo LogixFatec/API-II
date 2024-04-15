@@ -32,7 +32,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 
-Analisar quais os principais modais utilizados para a exportação de produtos do estado de São Paulo no ano de 2023
+Analisar quais os principais modais utilizados para a exportação de produtos do estado de São Paulo no ano de 2024
 
 * Identificar os modais utilizados nos trâmites internacionais de movimentação de cargas
 * Desenhar a geografia do fluxo de exportação de cargas provenientes do estado de São Paulo
