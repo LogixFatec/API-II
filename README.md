@@ -68,19 +68,25 @@ Interface do Dashboard
   
 # Backlog do produto
 
- ## SPRINT 1
-![Captura de tela 2024-04-17 193322](https://github.com/LogixFatec/API-II/assets/144241887/400a0ea3-4dc2-4f42-9443-6f0d0ad183cd)
+## Sprint 1. Introdução
+- [x] Início do tatamento de dados
+- [x] Identificar os modais utilizados trâmites internacionais de movimentação de cargas e;
+- [x] Cálculo do Valor Agregado
 
- ## SPRINT 2
+## Sprint 2. Concepção
+- [ ] Desenho da geografia do fluxo de exportação de cargas provenientes do estado de SP;
+- [ ] Definição de URF's por região;
+- [ ] Levantamento de valores por modais e URF's;
+- [ ] Atualização de documentação
+
+## Sprint 3. Desenvolvimento do Projeto
+- [ ] Desenvolvimento da linha de tendência para as cargas identificadas;
+
+ ## Sprint 4. Entrega do Produto
+- [ ] Criação do modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas;
+- [ ] 
 
 
- ## SPRINT 3
-
-
- ## SPRINT 4
-
-
- 
 Requisitos funcionais 
 - Conteúdo da apresentação   
 - Relatórios 
@@ -97,38 +103,6 @@ Requisitos não funcionais
 ![Burndown1]()
 ![Burndown 2]()
 ![burndown 3]()
-
-# Sprints
-
-## Sprint 1. Introdução
-- [x] Registro do chamado
-- [x] Estruturação do GitHub
-- [x] Estruturação do Jira Software
-- [x] Atribuição das tarefas
-- [x] Início do tatamento de dados
-- [x] Relatório
-- [x] Relacionar as Tabelas
-- [x] Análise da causa raíz
-
-## Sprint 2. Concepção
-- [ ] Criação do dashboard
-- [ ] Pesquisas sobre modais
-- [ ] Relatório
-
-## Sprint 3. Desenvolvimento do Projeto
-- [ ] Registro de funcionamento do dashboard
-- [ ] Pesquisa sobre as movimentações de cargas
-- [ ] Relatório
-- [ ] Pesquisa no site COMEX STAT
-- [ ] Dashboard
-   
-## Sprint 4. Implementação
-- [ ] Listagem das cargas
-- [ ] Revisão do Dashboard
-- [ ] Documentações
-- [ ] Criação de um storytelling
-- [ ] Atualização do Github
-
 
 
 # Competências desenvolvidas
