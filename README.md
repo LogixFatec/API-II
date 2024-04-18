@@ -19,7 +19,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 08/04/2024 | concluído|
-|01| 18/04/2024 | a fazer | [Ver Relatório](https://github.com/LogixFatec/API-II/files/15023947/Relatorio.API.2024.1.docx) | 
+|01| 18/04/2024 | concluído | [Ver Relatório](https://github.com/LogixFatec/API-II/files/15023947/Relatorio.API.2024.1.docx) | 
 |02| 09/05/2024  | a fazer |[Ver Relatório]() | 
 |03| 30/05/2024 | a fazer |[Ver Relatório]() | 
 |04| 20/06/2024 | a fazer |[Ver Relatório]()  |
@@ -51,7 +51,7 @@ Interface do Dashboard
 
 ## Tecnologias Utilizadas
   ### Produto 
- [EXPORTACAO](https://lh3.googleusercontent.com/pw/ADCreHfT_-3sZHGh5WuQCmBDr8Y3MASiAcUmtSr-Avz53zgUnnr4g2fOhwaK7m6JCRILA-7qwfVdEne9HNZ-HU6d4YqRKojtE6r5wTo4a_ifbpV6Skq3UmemCSU0QmzxKuoeKM-6JySIs-qTJ34F7WkTpUh2nJpGbK3tam7A0Mm6hExQEKpogFrHFSq9lpaKnwi6OnPjKXfRg92Wzgn0M5VN3teIWzIOm3Jjqf1smFNJnU5haYGB_G2BR8DXNeruHihdaEFOjjyuZlfyXTkjeP8uehpfI58AhA4IiF0D1l2lznJxFw1g-GgCogj7FOvPFwOgz-zLPcyfZ4yth0kfafckge4gQv4totvW4JN4u9bDK2yGTluZ4qGlC99iDufo1WnQIh1_OGZUtuX8WPC8jFDhmcksF6dODEyWHiGDqPAzCY3NRIPxPuaV8xROvZV4TMbns2TrYjwFBKf_X3T2NcQP6ZgYxih4csCbrAKw6p2hje6KyXn2WTNFSx6I9Gi1QZPgpdwVOk_LklO_HP4zwIF8QK2HsVuZx1HJiM_nIXjArUAfohe7_idXM0WTQ9TqVFZ2oWlZVC_PQy_n3t0cNDHCaANkl8dqPwdS2PQOy5wuH7O6cAhF6pt4nVfsupiRKQJRdZn6pOWlMvPTOo0pMG7t4SPaNoMpQYUMon0tyYv-VP4WrEYa55hh37xtqexTYeWteKiJXVWWJW2bgwlsS2BjahnummfDN3IfyH71XXXIoKANeaAccIrtmf44t4CMY3_3jPi6JNSDbn0_IgCZyqq8vJZ-dmwRir3A3-FBBdoB_zqivSX5E5y7LFPjPG8iB0nmljr_wV-f63OVrmElbZCDTtbdgulxr1SQktST562Kzc-YOiTUmiU47wSOsDj_3thKyft9w9dZjQ4CJPZKNMlE=w1376-h775-s-no-gm?authuser=0)
+ [EXPORTACAO]()
 
 
  ### Tecnológias Específicas/Apoio
@@ -73,13 +73,13 @@ Interface do Dashboard
 ![Captura de tela 2024-04-17 193322](https://github.com/LogixFatec/API-II/assets/144241887/400a0ea3-4dc2-4f42-9443-6f0d0ad183cd)
 
  ## SPRINT 2
-![backlogsprint]()
+()
 
  ## SPRINT 3
-![backlogsprint]()
+()
 
  ## SPRINT 4
-![SPRINT]()
+()
 
 Regras de Negócio
 - 
