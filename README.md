@@ -81,8 +81,6 @@ Interface do Dashboard
  ## SPRINT 4
 ()
 
-Regras de Negócio
-- 
 
 Requisitos funcionais 
 - Conteúdo da apresentação   
