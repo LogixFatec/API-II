@@ -95,9 +95,9 @@ Requisitos não funcionais
 
 
 # Burndown
-![sprint backlog]()
+![Burndown1]()
 ![Burndown 2]()
-![burndown sprint 3]()
+![burndown 3]()
 
 # Sprints
 
