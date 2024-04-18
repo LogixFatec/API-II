@@ -64,9 +64,8 @@ Interface do Dashboard
 > Github;
 > Slack.
 
-- [Apresentação da sprint 0](https://canva.com/design/DAFu_OM8OWU/0_BdT6dktJ2FitG3d8embQ/edit)
-- [Apresentação da sprint 2](https://www.canva.com/design/DAFzqztx_Gc/NDw-zUIgIZ6O7--05WcMsw/edit?utm_content=DAFzqztx_Gc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Jira Software](https://logix0309.atlassian.net/jira/software/projects/API/boards/4/backlog?epics=visible)
+- [Apresentação da Sprint](https://www.canva.com/design/DAGCJ0ePdf0/-1vtwXD7KudA6nYjHZYTAA/edit?utm_content=DAGCJ0ePdf0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Jira Software](https://logix0309.atlassian.net/jira/software/projects/API/boards/4/backlog)
   
 # Backlog do produto
 
@@ -74,13 +73,13 @@ Interface do Dashboard
 ![Captura de tela 2024-04-15 101204](https://github.com/LogixFatec/API-II/assets/144241887/99810851-6e73-44c9-a69f-47ca4682f189)
 
  ## SPRINT 2
-![backlogsprint1]()
+![backlogsprint]()
 
  ## SPRINT 3
-![backlogsprint2]()
+![backlogsprint]()
 
  ## SPRINT 4
-![SPRINT 3]()
+![SPRINT]()
 
 Regras de Negócio
 - 
@@ -107,11 +106,11 @@ User stories
 
 ## Sprint 1. Introdução
 - [x] Registro do chamado
-- [ ] Estruturação do GitHub
+- [x] Estruturação do GitHub
 - [x] Estruturação do Jira Software
 - [x] Atribuição das tarefas
 - [x] Início do tatamento de dados
-- [ ] Relatório
+- [x] Relatório
 - [x] Relacionar as Tabelas
 - [x] Análise da causa raíz
 
