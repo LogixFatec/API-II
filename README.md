@@ -87,18 +87,6 @@ Interface do Dashboard
 - [ ] 
 
 
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais
-
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas 
-- Metodologias ágil
-- Power BI / Jira / Canva
-
-
 # Burndown
 ![Burndown1]()
 ![Burndown 2]()
