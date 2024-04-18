@@ -70,7 +70,7 @@ Interface do Dashboard
 # Backlog do produto
 
  ## SPRINT 1
-![Uploading Captura de tela 2024-04-17 193322.png…]
+https://github.com/LogixFatec/API-II/issues/1#issuecomment-2062795229
 
  ## SPRINT 2
 ![backlogsprint]()
