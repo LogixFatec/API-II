@@ -19,7 +19,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 08/04/2024 | concluído|
-|01| 18/04/2024 | a fazer | [Ver Relatório]([Relatorio API 2024 (1).docx](https://github.com/LogixFatec/API-II/files/15023947/Relatorio.API.2024.1.docx) | 
+|01| 18/04/2024 | a fazer | [Ver Relatório](https://github.com/LogixFatec/API-II/files/15023947/Relatorio.API.2024.1.docx) | 
 |02| 09/05/2024  | a fazer |[Ver Relatório]() | 
 |03| 30/05/2024 | a fazer |[Ver Relatório]() | 
 |04| 20/06/2024 | a fazer |[Ver Relatório]()  |
