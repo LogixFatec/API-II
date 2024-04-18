@@ -92,8 +92,7 @@ Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas 
 - Metodologias ágil
 - Power BI / Jira / Canva
-  
-User stories
+
 
 # Burndown
 ![sprint backlog]()
