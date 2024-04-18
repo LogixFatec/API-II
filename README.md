@@ -7,7 +7,6 @@
 * [Funcionalidades e registros das sprints](#Funcionalidades-e-registros-das-sprints)
 * [Backlog do Produto](#Backlog-do-Produto)
 * [Burndown](#Burndown)
-* [Sprints](#Sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
